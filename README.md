@@ -10,8 +10,8 @@ This repository contains my notes and code implementations from the book [Dive i
 ## Progress  
 
 ### 1. Preface  
-- [ ] 1.1 Motivation  
-- [ ] 1.2 A Taste of Deep Learning  
+- [X] 1.1 Motivation  
+- [X] 1.2 A Taste of Deep Learning  
 
 ### 2. Preliminaries  
 - [ ] 2.1 Data Manipulation  
