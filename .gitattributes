@@ -1,1 +1,2 @@
-*.ipynb filter=clear_ipynb
+*.ipynb filter=strip-notebook
+*.ipynb diff=ipynb
